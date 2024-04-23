@@ -31,5 +31,4 @@ public class TelcoPromo {
 
 
 ## UML Diagram
-![image](https://github.com/SimounReyes/visitorPattern/assets/142649580/69cc1900-90f7-4bd8-9850-8aea669d62f1)
-
+![323438627-ffa4c205-e9ce-450d-9d90-29e5aa04dcf0](https://github.com/SimounReyes/visitorPattern/assets/142649580/075768fd-b0eb-4e79-9b43-63e515bc4fe9)
